@@ -1,2 +1,2 @@
 #!bin/bash
-echo "Hello,second version of hello.sh v21.0"
+echo "Hello,third version of hello.sh v3.0,updated directly in github"
